@@ -1,1 +1,3 @@
 # LinkedListDemo
+
+this is work from my university years, basically we were to implement a linked list without the use of the already built linked list library function eclipse had. so I have a seperate class labeled linked list where I set up all of the relevant methods needed for linked list (add,get,remove,etc) and a main class which takes a user input of a n numbers to print along with a min and max number. the program will generate n numbers between the min and max and print the numbers in descending and ascending order, I'm also comparing the time complexcity of my linked list with eclipse already built arraylist to determine which sort is the fastest
